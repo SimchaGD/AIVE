@@ -182,7 +182,7 @@ plt.show()
 
 
     
-![png](img/output_12_0.png)
+<img src="img/output_12_0.png.png" style="width: 240px;"/>  
     
 
 
