@@ -45,7 +45,7 @@ class bearing_dataset():
         Return pandas dataframe
         """
         try:
-            return pd.read_table(os.path.join(self.path, "{}.txt".format(ind)), names = self.colnames)
+            return pd.read_table(os.path.join(self.path, "{}.txt".format(ind)), names = self.colnames).b4
         except IndexError as e:
             raise IndexError("Index out of range with index '{}'".format(ind))
     
