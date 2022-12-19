@@ -1,4 +1,4 @@
-layer_height;wall_thickness;infill_density;infill_pattern;nozzle_temperature;bed_temperature;print_speed;material;fan_speed;roughness;tension_strenght;elongation
+layer_height;wall_thickness;infill_density;infill_pattern;nozzle_temperature;bed_temperature;print_speed;material;fan_speed;roughness;tension_strength;elongation
 0.02;8;90;0;220;60;40;0;0;25;18;1.2
 0.02;7;90;1;225;65;40;0;25;32;16;1.4
 0.02;1;80;0;230;70;40;0;50;40;8;0.8
