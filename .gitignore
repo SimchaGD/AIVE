@@ -2,3 +2,7 @@ dag 1/.ipynb_checkpoints/*
 dag 2/.ipynb_checkpoints/*
 dag 3/.ipynb_checkpoints/*
 dag 1/dagcasus/.ipynb_checkpoints/*
+dag2/.ipynb_checkpoints/
+dag1/.ipynb_checkpoints/
+3dprinter/.ipynb_checkpoints/
+*.ipynb_checkpoints
